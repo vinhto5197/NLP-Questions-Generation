@@ -1,5 +1,5 @@
 # NLP-Questions-Generation
-A rule-based NLP program to generate cohesive and coherent questions based on an English document.
+A rule-based NLP program to generate cohesive and coherent questions based on an English document. Frontend development in progress.
 
 ## Requirements
 `Java 1.8` installed. An API call will be made using Java to connect to `StanfordCoreNLP` server to parse the strings. Java version (32bit/64bit) depends on individual machine.

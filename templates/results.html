@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block page_title %} Results {% endblock %}
+
+{% block page_name %} Results {% endblock %}
+
+{% block content %}
+
+    <h2>Questions</h2>
+    {% for q in questions %}
+        <p> {{ q }} </p>
+    {% endfor %}
+    <h2>Text</h2>
+    <span style="white-space: pre-line; margin-left: 15px; margin-bottom: 30px; display: block; word-wrap: break-word"> {{ txt_doc }} </span>
+
+{% endblock %}

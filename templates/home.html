@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block page_title %} Questions Generation {% endblock %}
+
+{% block page_name %} Generate questions based on an English text document {% endblock %}
+
+{% block image %}
+<img src="static/riddler.gif" alt="riddler">
+{% endblock %}
+
+{% block content %}
+    {% for message in get_flashed_messages() %}
+        <div class="alert alert-warning alert-dismissible fade show" role="alert" style="margin: 20px 15px 0px 15px;">
+          <strong>{{ message }}</strong>
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+    {% endfor %}
+
+    <h2>
+        Instructions
+    </h2>
+
+    <p>
+        1. Specify the number of questions relevant to the document to be asked.
+         <br>
+        2. Paste the document in the textbox. The document can be copy-pasted from anywhere. It can also include non-sentences like references in an academic paper or items in a table, but in essence it needs to be a coherent and cohesive document.
+        <br>
+        3. Generate. Check out one of the sample documents if no document.
+    </p>
+
+    <h5>Note:</h5>
+    <p>
+        If the specified number of questions is too high relative to the length of the document, fewer questions may be generated. As of the current development, it is recommended that the document has at least 20 times as many coherent sentences as there are questions to be generated,
+        i.e. if 3 questions are specified, the document needs at least 60 coherent sentences.
+    </p>
+
+    <p style="color:blue">
+        You may notice some questions may be grammatically correct but are not meaningful. More robust rules and generation based on neural network are being developed, along with more features and better UI/UX.
+        You can stay up to date with development by visiting the <a href="https://github.com/vinhto5197/NLP-Questions-Generation"> repo </a> for this project - Thanks :)
+    </p>
+
+    <br>
+
+    <h2>
+        Generate
+    </h2>
+
+    <p style="color:red;">
+        It takes a while for questions to be generated.
+    </p>
+
+    <form action="#" method="post">
+        <h5>Number of questions</h5>
+        <textarea name="num_questions" rows="1" cols="5" maxlength="2">{{num_q}}</textarea>
+        <h5>Text</h5>
+        <textarea name="text" class="scrollabletextbox" rows="15" style="width:98%;">{{txt_doc}}</textarea>
+
+        <p><input type="submit" value="Start Generating" style="margin-bottom: 50px"/></p>
+    </form>
+
+
+{% endblock %}

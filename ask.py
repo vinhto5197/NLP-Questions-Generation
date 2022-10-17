@@ -1,4 +1,4 @@
-import numpy as np
+import random
 from PreProcessing import Question_generation
 import nltk.data
 import language_tool_python
@@ -25,7 +25,7 @@ def ask(num_questions, text):
     text = list(filter(None, text))
     
     while count < int(num_questions):
-        idx = np.random.randint(0, len(text))
+        idx = random.choice(range(0, len(text)))
         if idx not in sentences_done:
             sentences_done[idx] = 1
             sentence = text[idx]

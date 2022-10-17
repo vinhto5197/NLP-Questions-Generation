@@ -1,9 +1,4 @@
 def gen(num_q, txt):
-    import subprocess
-    import sys
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "stanfordcorenlp"])
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "language_tool_python"])
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "nltk"])
 
     from threading import Thread
     import time

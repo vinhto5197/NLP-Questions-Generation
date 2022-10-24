@@ -2,193 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="037fa67d-23ed-4294-a3ab-b58a58828f0c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/COPYRIGHT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/THIRDPARTYLICENSEREADME-JAVAFX.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/THIRDPARTYLICENSEREADME.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/Welcome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/JAWTAccessBridge-64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/JavaAccessBridge-64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/WindowsAccessBridge-64.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-console-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-private-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/awt.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/bci.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/dcpr.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/decora_sse.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/deploy.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/dt_shmem.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/dt_socket.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/dtplugin/deployJava1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/dtplugin/npdeployJava1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/eula.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/fontmanager.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/fxplugins.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/glass.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/glib-lite.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/gstreamer-lite.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/hprof.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/instrument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/j2pcsc.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/j2pkcs11.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jaas_nt.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jabswitch.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/java-rmi.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/java.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/java.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/java_crw_demo.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/javacpl.cpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/javacpl.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/javafx_font.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/javafx_iio.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/javaw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/javaws.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jawt.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jdwp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jfr.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jfxmedia.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jfxwebkit.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jjs.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jli.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jp2iexp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jp2launcher.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jp2native.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jp2ssv.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jpeg.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jsdt.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jsound.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/jsoundds.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/keytool.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/kinit.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/klist.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/ktab.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/lcms.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/management.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/mlib_image.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/net.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/nio.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/npt.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/orbd.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/pack200.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/plugin2/msvcp140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/plugin2/npjp2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/plugin2/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/policytool.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/prism_common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/prism_d3d.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/prism_sw.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/resource.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/rmid.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/rmiregistry.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/server/Xusage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/server/classes.jsa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/server/jvm.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/servertool.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/splashscreen.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/ssv.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/ssvagent.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/sunec.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/sunmscapi.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/t2k.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/tnameserv.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/ucrtbase.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/unpack.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/unpack200.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/vcruntime140_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/verify.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/w2k_lsa_auth.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/wsdetect.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/bin/zip.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/directshow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/glib.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/gstreamer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/icu_web.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/jpeg_fx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/libffi.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/libxml2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/libxslt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/mesa3d.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/public_suffix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/javafx/webkit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/asm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/bcel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/cldr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/colorimaging.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/cryptix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/dom.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/dynalink.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/ecc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/freebxml.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/giflib.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/icu.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/jcup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/joni.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/jopt-simple.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/jpeg.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/lcms.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/libpng.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/mesa3d.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/pkcs11cryptotoken.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/pkcs11wrapper.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/relaxngcc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/relaxngdatatype.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/relaxngom.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/santuario.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/thaidict.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/unicode.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/xalan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/xerces.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/xmlresolver.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/legal/jdk/zlib.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/jre1.8.0_341/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QG.py" beforeDir="false" afterPath="$PROJECT_DIR$/QG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ask.py" beforeDir="false" afterPath="$PROJECT_DIR$/ask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stanford-corenlp-4.5.0/stanford-corenlp-4.5.0-models.jar" beforeDir="false" afterPath="$PROJECT_DIR$/stanford-corenlp-4.5.0/stanford-corenlp-4.5.0-models.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/icon3.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/FrankLampard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/texts/StarWars.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,11 +32,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/vinht/Desktop/Projects/NLP-Questions-Generation"
+    "last_opened_file_path": "C:/Users/vinht/Desktop/Projects/0.Production/nlp-questions-generation"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NLP-Questions-Generation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +48,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/application.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\vinht\Desktop\Projects\NLP-Questions-Generation\app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,5 +73,16 @@
       <updated>1666042986648</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

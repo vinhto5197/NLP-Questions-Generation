@@ -6,7 +6,7 @@ import language_tool_python
 
 def ask(num_questions, text):
     nltk.download('punkt')
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    nltk.download('averaged_perceptron_tagger')
     tool = language_tool_python.LanguageTool('en-US')
     
     count = 0

@@ -11,10 +11,9 @@ def gen(num_q, txt):
         os.system('java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer   -port 9000 -timeout 150000')
 
     Thread(target=connect).start()
-    time.sleep(1)
+    time.sleep(0.8)
     os.chdir(cur_dir)
     from ask import ask
 
     res = ask(num_q, txt)
-    time.sleep(1)
     return res

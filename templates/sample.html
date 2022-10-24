@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block page_title %} Sample Text {% endblock %}
+
+{% block page_name %} Sample Text: {{ name }} {% endblock %}
+
+{% block image %}
+<img src="static/lorem-ipsum.png" alt="loremipsum" style="width:500px; height:300px">
+{% endblock %}
+
+{% block content %}
+    {% for message in get_flashed_messages() %}
+        <div class="alert alert-warning alert-dismissible fade show" role="alert" style="margin: 20px 15px 0px 15px;">
+          <strong>{{ message }}</strong>
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+    {% endfor %}
+
+    <h5>Note:</h5>
+
+    <p style="color:blue">
+        You may notice some questions may be grammatically correct but are not meaningful. More robust rules and generation based on neural network are being developed, along with more features and better UI/UX.
+        You can stay up to date with development by visiting the <a href="https://github.com/vinhto5197/NLP-Questions-Generation"> repo </a> for this project - Thanks :)
+    </p>
+
+    <p style="color:red;">
+        It takes a while for questions to be generated. Please specify more questions to generate if the ones you get are not meaningful.
+    </p>
+
+    <form action="#" method="post">
+        <h5>Number of questions</h5>
+        <textarea name="num_questions" rows="1" cols="5" maxlength="2">{{num_q}}</textarea>
+        <p><input type="submit" value="Start Generating" style="margin-bottom: 15px"/></p>
+        <h5>Text</h5>
+        <textarea name="text" class="scrollabletextbox" rows="15" style="width:98%; height:98vh;">{{txt_doc}}</textarea>
+
+    </form>
+
+
+{% endblock %}
